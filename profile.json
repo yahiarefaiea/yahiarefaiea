@@ -1,0 +1,21 @@
+{
+  "firstName": "Yahia",
+  "lastName": "Refaiea",
+  "fullName": "Yahia Refaiea",
+  "username": "yahiarefaiea",
+  "domains": {
+    "default": "yahiarefaiea.com",
+    "short": "yahia.com"
+  },
+  "websites": {
+    "default": "http://yahiarefaiea.com",
+    "short": "http://yahia.com",
+    "blog": "http://yahia.com/blog"
+  },
+  "email": "hey@yahiarefaiea.com",
+  "channels": "http://yahia.com/anywhere",
+  "repo_link": "http://github.com/yahiarefaiea",
+  "anywhere_repo_link": "http://github.com/yahiarefaiea/blob/anywhere#readme",
+  "anywhere_as_markdown": "Anywhere [@yahiarefaiea](http://github.com/yahiarefaiea/blob/anywhere#readme)",
+  "anywhere_as_html": "Anywhere <a href='http://github.com/yahiarefaiea/blob/anywhere#readme' title='@yahiarefaiea'>@yahiarefaiea</a>"
+}
