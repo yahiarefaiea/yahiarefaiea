@@ -1,9 +1,9 @@
 import {toLower} from 'lodash'
-import channels from './channels'
-import about from './about'
-import journey from './journey'
-import projects from './projects'
-import bucketList from './bucketList'
+// import channels from './channels'
+// import about from './about'
+// import journey from './journey'
+// import projects from './projects'
+// import bucketList from './bucketList'
 
 const profile = {}
 profile.firstName = 'Yahia'
@@ -25,9 +25,9 @@ profile.channels = `${profile.websites.short}/anywhere`
 
 export {
   profile as default,
-  channels,
-  about,
-  journey,
-  projects,
-  bucketList
+  // channels,
+  // about,
+  // journey,
+  // projects,
+  // bucketList
 }
