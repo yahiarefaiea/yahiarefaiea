@@ -1,42 +1,33 @@
-const fse = require('fs-extra')
-const _ = require('lodash')
+import {toLower} from 'lodash'
+import channels from './channels'
+import about from './about'
+import journey from './journey'
+import projects from './projects'
+import bucketList from './bucketList'
 
-module.exports = function() {
-  const my = {}
-  my.firstName = 'Yahia'
-  my.lastName = 'Refaiea'
-  my.fullName = `${my.firstName} ${my.lastName}`
-  my.username = _.toLower(my.fullName.replace(/\s/g,''))
-  my.domains = {
-    default: `${my.username}.com`,
-    short: `${_.toLower(my.firstName)}.com`
-  }
-  my.websites = {
-    default: `http://${my.domains.default}`,
-    short: `http://${my.domains.short}`,
-    blog: `http://${my.domains.short}/blog`
-  }
-  my.email = `hey@${my.domains.default}`
-  my.channels = `${my.websites.short}/anywhere`
-  // my.channels_list = ``
-  
-  
-  my.repo_link = `http://github.com/${my.username}`
-  my.anywhere_repo_link = `${my.repo_link}/blob/anywhere#readme`
-  
-  my.anywhere_as_markdown = `Anywhere [@${my.username}](${my.anywhere_repo_link})`
-  my.anywhere_as_html = `Anywhere <a href='${my.anywhere_repo_link}' title='@${my.username}'>@${my.username}</a>`
-  
-  // console.log(my)
-  // console.log(Object.values(my))
-  // console.log(JSON.stringify(my))
-  
-  fse.outputFile('./profile.json', JSON.stringify(my, null, 2), function(err) {
-    if(err) console.log(err)
-  })
-  
-  // channels: require('channels')
-}()
+const profile = {}
+profile.firstName = 'Yahia'
+profile.lastName = 'Refaiea'
+profile.fullName = `${profile.firstName} ${profile.lastName}`
+profile.username = toLower(profile.fullName.replace(/\s/g,''))
 
-// on prepublish.. take the data from here and create .md file
+profile.domains = {}
+profile.domains.default = `${profile.username}.com`
+profile.domains.short = `${toLower(profile.firstName)}.com`
 
+profile.websites = {}
+profile.websites.default = `http://${profile.domains.default}`
+profile.websites.short = `http://${profile.domains.short}`
+profile.websites.blog = `http://blog.${profile.domains.default}`
+
+profile.email = `hey@${profile.domains.default}`
+profile.channels = `${profile.websites.short}/anywhere`
+
+export {
+  profile as default,
+  channels,
+  about,
+  journey,
+  projects,
+  bucketList
+}
