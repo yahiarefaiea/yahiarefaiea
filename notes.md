@@ -6,3 +6,11 @@ my.channels_as_html = `Anywhere <a href='${my.channels_repo_link}' title='@${my.
 
 // on prepublish.. take the data from here and create .md file
 
+
+// export to YAML:
+const fse = require('fs-extra')
+const yaml = require('js-yaml')
+
+fse.outputFile('./data.yaml', yaml.dump(profile), function(err) {
+  if(err) console.log(err)
+})
