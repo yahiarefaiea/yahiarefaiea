@@ -1,11 +1,5 @@
-// import channels from './channels'
-// import about from './about'
-// import journey from './journey'
-// import projects from './projects'
-// import bucketList from './bucketList'
-
-export {
-  profile as default,
+module.exports = {
+  profile,
   // channels,
   // about,
   // journey,
