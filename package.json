@@ -1,7 +1,6 @@
 {
-  "name": "@yahia/profile",
-  "version": "1.0.0",
-  "description": "",
+  "name": "yahiarefaiea",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "js-yaml": "4.1.0"
