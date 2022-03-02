@@ -3,6 +3,7 @@ const {join} = require('path')
 const yaml = require('js-yaml')
 
 let profile = yaml.load(readFileSync(join(__dirname, './profile.yaml')))
+let bucketList = yaml.load(readFileSync(join(__dirname, './bucket-list.yaml')))
 
 module.exports = {
   profile,
@@ -10,5 +11,5 @@ module.exports = {
   // about,
   // journey,
   // projects,
-  // bucketList
+  bucketList
 }
