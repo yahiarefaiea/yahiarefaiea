@@ -1,15 +1,15 @@
 Where to find me?
 Find me anywhere @yahiarefaiea
 
-Twitter (Tw.)
-Facebook (Fb.)
+Twitter
+Facebook
 Codepen
 GitHub
-Dribbble (Dr.)
+Dribbble
 Medium
 NPM
-Linkedin (In.)
-Instagram (In.)
+Linkedin
+Instagram
 Goodreads
 YouTube
 Pocket
@@ -17,5 +17,3 @@ Telegram
 Skype
 Discord
 Steam
-
-
