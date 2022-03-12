@@ -1,5 +1,6 @@
 - date: 2012.12.22
-  Dropped out of high school
+  decision: Dropped out of
+  subject: high school
   description: After having open-heart surgery and facing death at a young age, I understood what it means to wake up in the morning having the chance to live another 24 hours and how important it is to spend this time on something to help build my future. I don’t have a problem with academic education, except when it consumes both my time and energy for nothing worth in return. I remember myself in bed—passionately rescuing my future by reading hundreds of articles about web development. But for everyone else, I was just recovering before going back to school. The decision to drop out was made the moment I could stand up for myself again.
 - date: [2014.08.30, 2015.05.08]
   title: Front-end development intern
@@ -32,7 +33,8 @@
   employer: Nuotron
   hidden: true
 - date: 2016.05.08
-  Founded Nuotron
+  decision: Founded
+  subject: Nuotron
   description: We were a full-cycle web design and development agency focusing on building well-crafted, interactive, and award-winning experiences to help tech startups and companies look good on the internet. Nuotron was also known as Nucubuc.
 - date: [2016.05.08, 2020.05.27]
   title: Design lead
