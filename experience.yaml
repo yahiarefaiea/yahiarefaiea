@@ -16,6 +16,7 @@
   hidden: true
 - date: [2015.04.08, 2016.05.15]
   title: Freelance experience designer and developer
+  description:
 - date: [2017.10.08, 2017.12.03]
   title: UX/UI designer
   employer: Tradinos
@@ -39,5 +40,7 @@
 - date: [2016.05.08, 2020.05.27]
   title: Design lead
   employer: Nuotron
+  description:
 - date: [2018.06.28, now]
   title: Independent creative developer
+  description:
