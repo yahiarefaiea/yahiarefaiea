@@ -1,25 +1,19 @@
 - date: 2018.04.20
   description: 1st place in Startup Weekend Homs
-  platform: Techstars
   url: https://www.wamda.com/2018/05/teams-won-startup-weekend-homs
 - date: [2018.10.30, now]
   description: 52K views on my personal website on Codepen
-  platform: Codepen
   url: https://codepen.io/yahiarefaiea/details/xyNWQq
 - date: 2018.11.02
   description: Best of the day on UpLabs
-  platform: UpLabs
   url: https://www.uplabs.com/posts/personal-website-concept-by-yahia-refaiea
 - date: 2018.11.05
   description: Nominated to CSS Design Awards
-  platform: CSS Design Awards
   url: https://twitter.com/yahiarefaiea/status/1059400671022194688
 - date: 2018.11.12
   description: Honored a CSS Design Awards’ Special Kudos
-  platform: CSS Design Awards
   url: https://twitter.com/yahiarefaiea/status/1061944244519297030
 - date: 2019.01.04
   description: 21st place on Codepen Most Hearted Pens of 2018
-  platform: Codepen
   ignoreDate: true
   url: https://codepen.io/2018/popular/pens/8
