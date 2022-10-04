@@ -1,5 +1,8 @@
 # website/resume bios
 
+A creative developer who’s passionate about bringing crazy ideas to life.
+> Note: the above sentence only appears in website bio
+
 Hey! I’m Yahia. *A Syrian creative developer heavily influenced by experience design and storytelling.*
 > Note: the above sentence only appears in website bio
 
