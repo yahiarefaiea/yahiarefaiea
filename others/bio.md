@@ -9,7 +9,7 @@ As a creative developer, I aim to build engaging and eye-catching digital experi
 
 ***Being in the field for 9 years*** -both as a designer and developer- helped me understand the full-cycle of creating products and ***opened the door for me to found a web design and development agency and lead people to build and deliver emotional and captivating experiences.***
 
-***My work was nominated and honored on Codepen, CSS Design Awards, and UpLabs.*** And I found it fun and inspiring to become a developer advocate and share my work and knowledge with the open-source community ***and end up having ~100K of views on my Codepen.***
+***My work was nominated and honored on Codepen, CSS Design Awards, and UpLabs.*** And I found it fun and inspiring to become a developer advocate, where I share my work and knowledge with the open-source community ***and end up having ~100K views on my Codepen.***
 
 Currently, I breathe-talking about combining technology, creativity, and storytelling—to produce an interactive book that not just tells a story—but allows the reader to live it. The book is expected to be out in 2025.
 
@@ -21,4 +21,4 @@ When I'm not working on my book, you'll find me holding a pencil as I brainstorm
 ----
 
 # Short bio
-Yahia is a Syrian creative developer heavily influenced by experience design and storytelling. Being in the field for 9 years opened the door for him to found a web design and development agency and lead people to build and deliver emotional and captivating experiences. His work was nominated and honored on Codepen, CSS Design Awards, and UpLabs—and currently have ~100K of views on his Codepen. Fun fact, he's obsessed with stickers.
+Yahia is a Syrian creative developer heavily influenced by experience design and storytelling. Being in the field for 9 years opened the door for him to found a web design and development agency and lead people to build and deliver emotional and captivating experiences. His work was nominated and honored on Codepen, CSS Design Awards, and UpLabs—and currently have ~100K views on his Codepen. Fun fact, he's obsessed with stickers.
