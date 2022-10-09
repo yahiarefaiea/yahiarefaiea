@@ -1,4 +1,4 @@
-After having open-heart surgery and facing death at a young age, I understood what it means to wake up in the morning having the chance to **[live another 24 hours //// breathe another breath]** and how important it is to spend this time on something to help build my future. I don’t have a problem with academic education, except when it consumes both my time and energy for nothing worth in return. I remember myself in bed—passionately rescuing my future by reading hundreds of articles about web development. But for everyone else, I was just recovering before going back to school. The decision to drop out was made the moment I could stand up for myself again.
+After having open-heart surgery and facing death at a young age, I understood what it means to wake up in the morning having the chance to live another 24 hours and how important it is to spend this time on something to help build my future. I don’t have a problem with academic education, except when it consumes both my time and energy for nothing worth in return. I remember myself in bed—passionately rescuing my future by reading hundreds of articles about web development. But for everyone else, I was just recovering before going back to school. The decision to drop out was made the moment I could stand up for myself again.
 
 ----
 
@@ -21,7 +21,7 @@ I was responsible for wireframing, designing, and developing responsive mobile-f
 
 ----
 
-We were a full-cycle web design and development agency focusing on building well-crafted, interactive, and award-winning experiences to help tech startups and companies (look good on the internet -or- have effective and emotionally engaging products and services). Nuotron was also known as Nucubuc.
+We were a full-cycle web design and development agency focusing on building well-crafted, interactive, and award-winning experiences to help tech startups and companies have effective and emotionally engaging products and services. Nuotron was also known as Nucubuc.
 
 ----
 
@@ -31,12 +31,12 @@ I've worked for a variety of clients and local events, startups, programs, and c
 ----
 
 **Design lead at Nuotron (April 2016 => May 2020)**
-When a founder starts small, wearing many hats is essential for the business to grow. I'll brief what I love wearing the most—the designer and developer hats! My responsibility was to lead the team and help them -not just with the creative process- but with the full-cycle of creating products—from first call with client to analyze requirements and winning the deal—to researching, planning, generating ideas on paper and prototyping—all the way to designing, developing, and delivering the final product.
+When a founder starts small, wearing many hats is essential for the business to grow. I'll brief what I love wearing the most—the designer and developer hats! My responsibility was to lead the team and help them -not just with the creative process- but with the full-cycle of creating products—from first call with client to analyze requirements and winning the deal—to researching, planning, ideation and prototyping—all the way to designing, developing, and delivering the final product.
 
 ----
 
 **Independent creative developer experience (WHGS) (September 2017 => Now)**
-I'm combining technology, creativity, and storytelling—to produce an interactive book that not just tells a story—but allows the reader to live it. Solving tests, taking up challenges, collecting memories, and taking someone else's place so the reader can feel, think, react, and become more involved in the story—as if he was -or- as being the main character. While the personalized experience inside the book allows him to express himself and face those fears and bad memories that been hunting him for years. And just by expressing himself, he (will) become mentally better. Many people collaborated shoulder to shoulder to deliver this piece of art work. And one of my responsibilities was to lead a 25-30 people size team from researching, planning, designing, and developing experiences, illustrations, characters, calligraphies, and merch, all the way to content-writing, 3D modeling, videography, and music composing. The book is expected to be out in 2025.
+I'm combining technology, creativity, and storytelling—to produce an interactive book that not just tells a story—but allows the reader to live it. Solving tests, taking up challenges, collecting memories, and taking someone else's place allows the reader to feel, think, react, and become as involved in the story as the main character. Also, the personalized experience inside the book allows him to express himself and face those fears and bad memories that have been hunting him for years. And just by expressing himself, he becomes mentally better. Many people shared a breathtaking vision and collaborated shoulder to shoulder to deliver this piece of artwork. And one of my responsibilities was to lead a 25-30 people size team from researching, planning, designing, and developing experiences, illustrations, characters, calligraphies, and merch, all the way to content-writing, 3D modeling, videography, augmented reality, and music composing. The book is expected to be out in 2025.
 
 # tasks
 > Check Qussai's messages
