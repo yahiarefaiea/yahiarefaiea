@@ -1,0 +1,33 @@
+- name: Twitter
+  icon: fa-brands fa-twitter
+  url: https://twitter.com/yahiarefaiea
+- name: Facebook
+  icon: fa-brands fa-facebook
+  url: https://facebook.com/yahiarefaiea
+- name: LinkedIn
+  icon: fa-brands fa-linkedin
+  url: https://linkedin.com/in/yahiarefaiea
+- name: Codepen
+  icon: fa-brands fa-codepen
+  url: https://codepen.io/yahiarefaiea
+- name: GitHub
+  icon: fa-brands fa-github
+  url: https://github.com/yahiarefaiea
+- name: Dribbble
+  icon: fa-brands fa-dribbble
+  url: https://dribbble.com/yahiarefaiea
+- name: Medium
+  icon: fa-brands fa-medium
+  url: https://medium.com/@yahiarefaiea
+- name: YouTube
+  icon: fa-brands fa-youtube
+  url: https://youtube.com/channel/UCy8A5G6-lS26hoGcdlS5Nog
+- name: Telegram
+  icon: fa-brands fa-telegram
+  url: https://t.me/yahiarefaiea
+- name: Skype
+  icon: fa-brands fa-skype
+  url: https://join.skype.com/invite/nEDdII2cmiNv
+- name: Discord
+  icon: fa-brands fa-discord
+  url: null
