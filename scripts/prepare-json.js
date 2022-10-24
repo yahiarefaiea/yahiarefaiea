@@ -1,6 +1,6 @@
+const {join} = require('path')
 const {readdir, readFileSync} = require('fs')
 const {outputFile} = require('fs-extra')
-const {join} = require('path')
 const yaml = require('js-yaml')
 const contentDirectory = join(__dirname, '../content')
 const outputDirectory = join(__dirname, '../json')

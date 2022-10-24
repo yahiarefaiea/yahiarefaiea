@@ -1,6 +1,6 @@
-const {camelCase} = require('lodash')
-const {readdir, readFileSync} = require('fs')
 const {join} = require('path')
+const {readdir, readFileSync} = require('fs')
+const {camelCase} = require('lodash')
 const jsonDirectory = join(__dirname, './json')
 let content = {}
 
