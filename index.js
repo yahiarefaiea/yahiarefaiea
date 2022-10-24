@@ -1,15 +1,17 @@
-const {readFileSync} = require('fs')
+const {camelCase} = require('lodash')
+const {readdir, readFileSync} = require('fs')
 const {join} = require('path')
-const yaml = require('js-yaml')
+const jsonDirectory = join(__dirname, './json')
+let content = {}
 
-let profile = yaml.load(readFileSync(join(__dirname, './profile.yaml')))
-let bucketList = yaml.load(readFileSync(join(__dirname, './bucket-list.yaml')))
+readdir(jsonDirectory, function(err, files) {
+  if(err) throw err
+  files.forEach((file) => {
+    let filePath = join(jsonDirectory, file)
+    let key = camelCase(file.replace('.json', ''))
+    let buffer = readFileSync(filePath)
+    content[key] = JSON.parse(buffer)
+  })
+})
 
-module.exports = {
-  profile,
-  // channels,
-  // about,
-  // journey,
-  // projects,
-  bucketList
-}
+module.exports = content
