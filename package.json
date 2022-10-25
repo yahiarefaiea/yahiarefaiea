@@ -1,7 +1,12 @@
 {
   "name": "yahiarefaiea",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": "Yahia Refaiea <hey@yahiarefaiea.com> (http://yahiarefaiea.com)",
   "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": "16.18.0"
+  },
   "scripts": {
     "prepare-json": "node scripts/prepare-json.js",
     "postinstall": "npm run prepare-json"
