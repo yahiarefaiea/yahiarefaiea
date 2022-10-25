@@ -1,17 +1,11 @@
-const {join} = require('path')
-const {readdir, readFileSync} = require('fs')
 const {camelCase} = require('lodash')
-const jsonDirectory = join(__dirname, './json')
+const contentFiles = require('./json')
 let content = {}
 
-readdir(jsonDirectory, function(err, files) {
-  if(err) throw err
-  files.forEach((file) => {
-    let filePath = join(jsonDirectory, file)
-    let key = camelCase(file.replace('.json', ''))
-    let buffer = readFileSync(filePath)
-    content[key] = JSON.parse(buffer)
-  })
+contentFiles.forEach((file) => {
+  let key = camelCase(file.replace('.json', ''))
+  let buffer = require(`./json/${file}`)
+  content[key] = buffer
 })
 
 module.exports = content
