@@ -2,6 +2,10 @@
   "name": "yahiarefaiea",
   "version": "0.0.1",
   "main": "index.js",
+  "scripts": {
+    "prepare-json": "node scripts/prepare-json.js",
+    "postinstall": "npm run prepare-json"
+  },
   "dependencies": {
     "lodash": "4.17.21"
   },
