@@ -12,11 +12,9 @@
     "postinstall": "npm run prepare-json"
   },
   "dependencies": {
-    "lodash": "4.17.21"
-  },
-  "devDependencies": {
     "fs-extra": "10.1.0",
     "js-yaml": "4.1.0",
+    "lodash": "4.17.21",
     "moment": "2.29.4"
   }
 }
