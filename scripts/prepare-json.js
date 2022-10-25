@@ -16,14 +16,6 @@ const toFormatDate = [
 readdir(contentDirectory, function(err, files) {
   if(err) throw err
 
-  let indexPath = join(outputDirectory, 'index.json')
-  for(let i in files)
-    files[i] = files[i].replace('.yaml', '.json')
-  let indexBuffer = JSON.stringify(files)
-  outputFile(indexPath, indexBuffer, function(err) {
-    if(err) throw err
-  })
-
   files.forEach((file) => {
     let filePath = join(contentDirectory, file)
     let outputPath = join(outputDirectory, file.replace('.yaml', '.json'))
@@ -36,5 +28,13 @@ readdir(contentDirectory, function(err, files) {
     outputFile(outputPath, buffer, function(err) {
       if(err) throw err
     })
+  })
+
+  let indexPath = join(outputDirectory, 'index.json')
+  for(let i in files)
+    files[i] = files[i].replace('.yaml', '.json')
+  let indexBuffer = JSON.stringify(files)
+  outputFile(indexPath, indexBuffer, function(err) {
+    if(err) throw err
   })
 })
