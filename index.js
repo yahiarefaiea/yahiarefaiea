@@ -4,8 +4,8 @@ let content = {}
 
 contentFiles.forEach((file) => {
   let key = camelCase(file.replace('.json', ''))
-  let buffer = require(`./json/${file}`)
-  content[key] = buffer
+  let json = require(`./json/${file}`)
+  content[key] = json
 })
 
 module.exports = content
