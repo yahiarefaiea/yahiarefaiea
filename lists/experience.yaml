@@ -1,15 +1,18 @@
 - date: [2014.08.30, 2015.05.08]
   title: Front-end development intern
   employer: Remmaz
+  description: Remmaz was a platform that helps students learn to code by doing and having fun as they take interactive challenges all within the browser. And my work helped raise a seeding fund of $15K by winning first place in Jusoor Entrepreneurship Competition in March 2016.
 - date: [2015.09.26, 2016.02.06]
   title: UI developer
   employer: Nas
+  description: I was responsible for wireframing, designing, and developing responsive mobile-first interfaces and building a style guide and a custom HTML and CSS library from the ground up using LESS and Jade; without relying on other CSS frameworks like Bootstrap.
 # - date: [2016.01.23, 2016.02.24]
 #   title: Front-end developer
 #   employer: Tadawol
 #   hidden: true
 - date: [2015.04.08, 2016.05.15]
   title: Freelance experience designer and developer
+  description: I’ve worked for a variety of clients and local events, startups, programs, and communities; and helped grow their presence online.
 # - date: [2017.10.08, 2017.12.03]
 #   title: UX/UI designer
 #   employer: Tradinos
@@ -29,8 +32,11 @@
 - date: 2016.05.08
   decision: Founded
   subject: Nuotron
+  description: We were a full-cycle web design and development agency focusing on building well-crafted, interactive, and award-winning experiences to help tech startups and companies have effective and emotionally engaging products and services. Nuotron was also known as Nucubuc.
 - date: [2016.05.08, 2020.04.30]
   title: Design lead
   employer: Nuotron
+  description: When a founder starts small, wearing many hats is essential for the business to grow. I’ll brief what I love wearing the most—the designer and developer hats! My responsibility was to lead the team and help them -not just with the creative process- but with the full-cycle of creating products—from first call with client to analyze requirements and winning the deal—to researching, planning, ideation and prototyping—all the way to designing, developing, and delivering the final product.
 - date: [2018.06.28, now]
   title: Independent creative developer
+  description: I’m combining technology, creativity, and storytelling—to produce an interactive book that not just tells a story—but allows the reader to live it. Solving tests, taking up challenges, collecting memories, and taking someone else’s place allows the reader to feel, think, react, and become as involved in the story as the main character. Also, the personalized experience inside the book allows him to express himself and face those fears and bad memories that have been hunting him for years. And just by expressing himself, he becomes mentally better. Many people shared a breathtaking vision and collaborated shoulder to shoulder to deliver this piece of artwork. And one of my responsibilities was to lead a 25-30 people size team from researching, planning, designing, and developing experiences, illustrations, characters, calligraphies, and merch, all the way to content-writing, 3D modeling, videography, augmented reality, and music composing. The book is expected to be out in 2025.
