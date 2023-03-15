@@ -5,7 +5,7 @@ const {includes} = require('lodash')
 const yaml = require('js-yaml')
 const formatDate = require('./format-date')
 const contentDirectory = join(__dirname, '../lists') // ../content
-const outputDirectory = join(__dirname, '../json/lists') // ../json
+const outputDirectory = join(__dirname, '../json')
 const toFormatDate = [
   'experience',
   'press-and-recognition',

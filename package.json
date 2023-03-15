@@ -9,7 +9,7 @@
   },
   "scripts": {
     "prepare-json": "node scripts/prepare-json.js",
-    "postinstall": "npm run prepare-json"
+    "do-not-postinstall": "npm run prepare-json"
   },
   "dependencies": {
     "fs-extra": "10.1.0",
