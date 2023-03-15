@@ -4,7 +4,7 @@ const {outputFile} = require('fs-extra')
 const {includes} = require('lodash')
 const yaml = require('js-yaml')
 const formatDate = require('./format-date')
-const contentDirectory = join(__dirname, '../content')
+const contentDirectory = join(__dirname, '../lists') // ../content
 const outputDirectory = join(__dirname, '../json')
 const toFormatDate = [
   'experience',
